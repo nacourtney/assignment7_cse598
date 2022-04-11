@@ -1,0 +1,21 @@
+C:\Users\Nikki Courtney\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Nikki Courtney\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Nikki Courtney\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Nikki Courtney\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Nikki Courtney\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Nikki Courtney\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Nikki Courtney\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Nikki Courtney\Desktop\So Far in the semester\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Nikki Courtney\Desktop\So Far in the semester\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Nikki Courtney\Desktop\So Far in the semester\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Nikki Courtney\Desktop\So Far in the semester\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Nikki Courtney\Desktop\So Far in the semester\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Nikki Courtney\Desktop\So Far in the semester\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Nikki Courtney\Desktop\So Far in the semester\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
